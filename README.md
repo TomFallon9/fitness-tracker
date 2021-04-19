@@ -48,7 +48,7 @@ A fitness app that allows users to create, view and track daily workouts. The us
   * Reps
   * Duration in minutes
 
-  ![Workout Tracker Resistance](public/assets/Images/workout-tracker-resistance.png)  
+  ![Fitness Tracker Resistance](public/assets/Images/fitness-tracker-resistance.png)  
 
 * If *Cardio* is selected, the user input the following required fields:
 
@@ -56,13 +56,13 @@ A fitness app that allows users to create, view and track daily workouts. The us
   * Distance in miles
   * Duration in minutes
 
-  ![Workout Tracker Cardio](public/assets/Images/workout-tracker-cardio.png)
+  ![Fitness Tracker Cardio](public/assets/Images/fitness-tracker-cardio.png)
 
 * After the required the fields are entered, the user can select **Complete** or **Add Exercise** to save the workout
 
 * There is a **Dashboard** that tracks all the workouts that was entered in graphic details
 
-  ![Workout Tracker Dashboard](public/assets/Images/workout-tracker-dashboard.png)
+  ![Fitness Tracker Dashboard](public/assets/Images/fitness-tracker-dashboard.png)
 
 ## Links
 
