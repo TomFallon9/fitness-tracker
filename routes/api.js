@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const Workout = require("../models/workouts.js");
+const Workout = require("../models/workouts");
 
 
 router.get("/api/workouts/range", (req, res) => {
