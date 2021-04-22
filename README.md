@@ -64,7 +64,7 @@ A fitness app that allows users to create, view and track daily workouts. The us
 ## Links
 
 * [Github](https://github.com/TomFallon9/fitness-tracker)
-* [Heroku App](https://fitness-tracker222.herokuapp.com/)
+* [Heroku App](https://fitness-tracker121212.herokuapp.com/)
 
 ## Features
 
