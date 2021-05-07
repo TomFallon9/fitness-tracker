@@ -5,6 +5,8 @@
 </div>
 A fitness app that allows users to create, view and track daily workouts. The user is able to log multiple exercises in a given day and also go back and update the workout. The user may track the name, type, weight, sets, reps and duration of each exercise. Cardiovascular exercises show the distance traveled in miles.
 
+![](public/one.png)
+
 ## Table of Contents
 
 * [Installation](#installation)
@@ -53,13 +55,15 @@ A fitness app that allows users to create, view and track daily workouts. The us
   * Distance in miles
   * Duration in minutes
 
+![](public/two.png)
+
 
 
 * After the required the fields are entered, the user can select **Complete** or **Add Exercise** to save the workout
 
 * There is a **Dashboard** that tracks all the workouts that was entered in graphic details
 
- 
+ ![](public/final.png)
 
 ## Links
 
